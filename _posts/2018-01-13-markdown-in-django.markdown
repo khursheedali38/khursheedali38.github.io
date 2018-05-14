@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown in Django"
+title: "Markdown in Django - GitHub API"
 date: 2018-01-13 16:35:39 +0530
 categories: django
 ---

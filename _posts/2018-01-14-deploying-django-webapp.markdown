@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deploying Django Webapp"
+title: "Deploying Django Webapp - Digital Ocean"
 date: 2018-01-14 18:07:39 +0530
 categories: django
 ---
