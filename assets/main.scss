@@ -3,3 +3,17 @@
 ---
 
 @import "minima";
+
+.post-list-heading {
+    font-size: 12px;
+    font-weight: bold; }
+
+.post-list {
+    margin-left: 0;
+    list-style: none; }
+    .post-list > li {
+        margin-bottom: 5px; }
+
+.post-link {
+    display: inline;
+    font-size: 16px; }
