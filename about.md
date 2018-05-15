@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Philomath and an avid reader of technical books with interests in Software Defined Networks(SDN) and Machine Learning(ML). I am more interested in the networks domain and exploring the domain of Software based networks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I completed my B.Tech from National Institute of Technology Karnataka, Surathkal (NITK) with majors in Computer Science and Engineering. While I have carried out several projects in different domains during my academic years, I have my academic interests primarily in SDN and Applications of ML.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Apart from the academics, I spend my leisure time exploring following areas:
++ International and current affairs
++ Calligraphy
++ History and Culture
++ Blogging
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to contact me in case you need any help related to content on this blog or any other projects I have carried out. I am also open to feedback, so send me an email if you want me to add or improve any content related to my interests.
