@@ -24,7 +24,7 @@ The common sqoop import errors occur during import to hive particularly. Most co
 
 A quick work around for this error is to *restart the vm*.
 
-#### AccessBasedControl: User null
+### AccessBasedControl: User null
 
 These occur because during import sqoop creates temporary files and need s access to hdfs. If you run the import task with a user who doesn't have the permission to access, then you would get this error.
 
