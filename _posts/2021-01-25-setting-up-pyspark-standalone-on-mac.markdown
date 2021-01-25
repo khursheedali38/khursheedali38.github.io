@@ -77,5 +77,5 @@ shell$ source ~/.bash_profile
 
 [spark]: https://spark.apache.org/downloads.html
 [java]: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
-[pyspark]: /assets/pyspark3
-[paths]: /assets/PATH
+[pyspark]: /assets/pyspark3.png
+[paths]: /assets/PATH.png
